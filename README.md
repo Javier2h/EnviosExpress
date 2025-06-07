@@ -42,10 +42,12 @@ El servicio SOAP expone un método llamado `GetTrackingStatus` que recibe un nú
 ## ⚙️ Instalación
 
 ### Clonar el proyecto
-  
-- git clone https://github.com/Javier2h/EnviosExpress.git
-- cd EnviosExpress
-- mvn clean install
+- Ingresamos a GitHub Desktop y le damos clik en clonar repositorio
+- Seleccionamos la opcion de URL
+- Pegamos este URL : https://github.com/Javier2h/EnviosExpress.git
+- Seleccionamos donde queremos guardar
+- Desde un IDE abrimos la carpeta y seguimos con el paso de crear la base de datos
+
 
 ### Crear la base de datos en PostgreSQL
 - Dentro de pgAdmin crear la base de datos con el nombre de EnviosExpress
